@@ -1,7 +1,11 @@
 # WinCapture - A C# Library to make screen captures
 ## Usage 
-#### 1. Create a `WinForms` Application and add `WinCapture.core.dll` to the project references.
-#### 2. to initialize the ScreenCapture Class use:
+### 1. In the root directory build the library using:
+```sh
+dotnet build
+```
+### 2. Create a `WinForms` Application and add `WinCapture.core.dll` to the project references.
+#### To initialize the ScreenCapture Class use:
 ```sh
 public ScreenCapture(Color selectionColor = default)
 ```

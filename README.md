@@ -1,1 +1,1 @@
-# WinCapture - A c# Library to make screen captures
+# WinCapture - A C# Library to make screen captures
